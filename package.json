@@ -4,7 +4,9 @@
   "description": "yes",
   "main": "yes",
   "scripts": {
-    "test": "yes"
+    "test": "yes",
+    "start": "node app.js"
+
   },
   "repository": {
     "type": "git",
