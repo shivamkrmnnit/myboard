@@ -3,12 +3,12 @@
 ![ezgif com-gif-maker](https://github.com/shivamkrmnnit/dflsj/assets/113784689/107df8ff-af0c-4937-908c-365a9984a473)
 
 
-Insert gif or link to demo
 
-https://media2.giphy.com/media/1J0tvATiP603rgvhCo/giphy.gif
 ## Open Board 
 
 YOUTUBE LINK: 
+
+OpenBoard is an open source cross-platform interactive white board application designed primarily for use in schools. It was originally forked from Open-Sankoré, which was itself based on Uniboard.
 
 
 
