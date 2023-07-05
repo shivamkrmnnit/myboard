@@ -23,7 +23,7 @@ OpenBoard is an open source cross-platform interactive white board application d
 
 ## Screenshots
 
-![Screenshot 2023-06-28 173711](https://github.com/shivamkrmnnit/dflsj/assets/113784689/c7bb8184-0a43-46a5-988a-6610a94a8b12)
+![Screenshot 2023-06-28 173711](https://github.com/shivamkrmnnit/myboard/blob/main/imag/Screenshot%202023-06-28%20173711.png)
 
 
 ![Screenshot 2023-06-26 0925](https://github.com/shivamkrmnnit/dflsj/assets/113784689/a0de1c47-2f10-4c35-984b-08dfa8697be7)
