@@ -1,6 +1,10 @@
 
 ## Demo
 ![ezgif com-gif-maker](https://github.com/shivamkrmnnit/myboard/blob/main/imag/ezgif.com-gif-maker.gif)
+![ezgif com-gif-maker](https://github.com/shivamkrmnnit/myboard/assets/113784689/a28b1fb8-e451-44c1-9b52-33439431089c)
+
+
+
 
 
 
@@ -23,7 +27,7 @@ OpenBoard is an open source cross-platform interactive white board application d
 
 ## Screenshots
 
-![Screenshot 2023-06-28 173711](https://github.com/shivamkrmnnit/myboard/blob/main/imag/Screenshot%202023-06-28%20173711.png)
+![imag/Screenshot 2023-06-28 173711](https://github.com/shivamkrmnnit/myboard/blob/main/imag/Screenshot%202023-06-28%20173711.png)
 
 
 ![Screenshot 2023-06-26 0925](https://github.com/shivamkrmnnit/myboard/blob/main/imag/Screenshot%202023-06-26%200925.png)
