@@ -1,7 +1,4 @@
 
-## Demo
-
-![ezgif com-gif-maker](https://github.com/shivamkrmnnit/myboard/assets/113784689/a28b1fb8-e451-44c1-9b52-33439431089c)
 
 
 
@@ -10,7 +7,7 @@
 
 ## Open Board 
 
-YOUTUBE LINK: 
+
 
 OpenBoard is an open source cross-platform interactive white board application designed primarily for use in schools. It was originally forked from Open-Sankoré, which was itself based on Uniboard.
 
@@ -19,10 +16,20 @@ OpenBoard is an open source cross-platform interactive white board application d
 
 ## Features
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- OpenBoard is a versatile, open-source interactive whiteboard application.
+- Designed primarily for use in educational environments.
+- Supports tools for creating and sharing interactive lessons.
+- Originally forked from Open-Sankoré.
+- Open-Sankoré was based on Uniboard.
+- Cross-platform functionality supports various operating systems (Windows, macOS, Linux).
+- Integrates seamlessly with other teaching resources and technologies.
+- Regular updates and community support ensure continuous improvement.
+- User-friendly interface, suitable for both teachers and students.
+
+
+## Demo
+
+![ezgif com-gif-maker](https://github.com/shivamkrmnnit/myboard/assets/113784689/a28b1fb8-e451-44c1-9b52-33439431089c)
 
 
 ## Screenshots
