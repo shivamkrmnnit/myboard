@@ -11,7 +11,21 @@
 
 OpenBoard is an open source cross-platform interactive white board application designed primarily for use in schools. It was originally forked from Open-Sankoré, which was itself based on Uniboard.
 
+## Installation
 
+```
+$ git clone https://github.com/shivamkrmnnit/myboard.git
+```
+```
+$ cd myboard
+```
+## Setting up 
+
+```
+npm i
+
+```
+run `npm start` and it will start
 
 
 ## Features
